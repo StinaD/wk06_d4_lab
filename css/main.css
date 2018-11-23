@@ -1,0 +1,10 @@
+body {
+  font-family: Palatino;
+}
+
+.box {
+  margin: 20px;
+  padding: 20px;
+  background-color: pink;
+
+}
